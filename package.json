@@ -1,0 +1,12 @@
+{
+  "name": "bcoin-express-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "simple bcoin implementation with express api",
+  "author": "Krs Joseph",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
